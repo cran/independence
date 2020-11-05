@@ -31,7 +31,7 @@
 #' \code{\link{tau.star.test}}
 #' }
 #' The first test is consistent assuming an absolutely continuous joint distribution,
-#' i.e., the populaion coefficient D=0 iff the variables are independent.
+#' i.e., the population coefficient D=0 iff the variables are independent.
 #' The latter two are consistent under no restriction on the distribution.
 #'
 #' Given an iid sample (X1,Y1),...,(Xn,Yn),
@@ -41,7 +41,7 @@
 #' following work of Even-Zohar and Leng.
 #' It is based on the fast counting of certain patterns
 #' in the permutation that relates the ranks of X and Y.
-#' See [arxiv:1911.01414] and references therein.
+#' See [arxiv:2010.09712] and references therein.
 #'
 #' @seealso
 #' \code{\link{tau.star.test}},
